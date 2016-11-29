@@ -1,2 +1,2 @@
-var util = require('can-util/can-util');
-console.log('can-util:', util);
+var DefineMap = require('can-define/map/map');
+console.log('DefineMap:', DefineMap);
